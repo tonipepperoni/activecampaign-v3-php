@@ -1,5 +1,5 @@
 {
-  "name": "tonipepperoni/activecampaign-v3-php",
+  "name": "mediatoolkit/activecampaign-v3-php",
   "description": "PHP Wrapper for ActiveCampaign",
   "require": {
     "guzzlehttp/guzzle": "~7.2.0"
